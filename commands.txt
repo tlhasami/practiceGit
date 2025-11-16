@@ -11,3 +11,4 @@ git checkout <commit-hash> <- want to temporarly goto previous commit
 git checkout <commit-hash> -- <filename> <- want to temporarly goto previous commit
 git log --all --graph
 git push origin master --set--upstream
+git push origin master -f <- force push
