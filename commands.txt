@@ -2,3 +2,6 @@ git init -> initalize the git
 git status -> checking the version
 git add . -> add whole folder to the git
 git add hello.cpp -> add just one file into the next version of the git
+git config --list -> checks personal information
+git config --global user.name "tlhasami"
+git config --global user.email "talharajpoot2711@gmail.com"
