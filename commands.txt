@@ -7,3 +7,7 @@ git config --list -> checks personal information
 git config --global user.name "tlhasami"
 git config --global user.email "talharajpoot2711@gmail.com"
 git config --global git config --global credential.username "tlhasami"
+git checkout <commit-hash> <- want to temporarly goto previous commit
+git checkout <commit-hash> -- <filename> <- want to temporarly goto previous commit
+git log --all --graph
+git push origin master --set--upstream

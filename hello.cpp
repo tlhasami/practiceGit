@@ -6,5 +6,6 @@ int main (){
     cout << " Line 2 added" << endl;
     cout << " Line 3 added" << endl;
     cout << " Now ammended " << endl;
+    cout << " This is fun" << endl;
     return 0;
 }
